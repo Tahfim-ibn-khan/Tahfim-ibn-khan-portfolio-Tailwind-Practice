@@ -2,7 +2,7 @@ import React from 'react'
 import tahfim from '../assets/images/introduction.png'
 function AboutMe() {
   return (
-    <div className='bg-black text-white py-20' id='AboutMe'>
+    <div className='bg-black text-white py-20' id='About'>
         <div className='container mx-auto px-8 md:px-16 lg:px-24'>
             <h2 className='text-4xl font-bold text-center mb-12'>About me</h2>
             <div className='flex flex-col md:flex-row space-x-9'>

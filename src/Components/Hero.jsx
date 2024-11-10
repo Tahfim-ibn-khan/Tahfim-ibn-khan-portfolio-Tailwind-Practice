@@ -2,7 +2,7 @@ import React from 'react'
 import heroImage from "../assets/images/introduction.png";
 function Hero() {
   return (
-    <div className='bg-black text-center text-white py-16 md:py-32'>
+    <div className='bg-black text-center text-white py-16 md:py-32' id='Hero'>
         <img src={heroImage} alt="Hero image" 
         className='mx-auto mb-8 w-48 h-48 rounded-full object-cover transform transition-transform duration-300 hover:scale-105'/>
         <h1 className='text-4xl font-bold'>
