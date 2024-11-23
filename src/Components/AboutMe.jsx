@@ -18,7 +18,7 @@ function AboutMe() {
                 <div className='flex items-center'>
                     <label htmlFor='htmlandcss' className='w-2/12'>HTML & CSS</label>
                     <div className='grow bg-gray-800 rounded-full h-2.5'>
-                        <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-7/12'>
+                        <div className='bg-gradient-to-r from-yellow-500 to-purple-700 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-7/12'>
 
                         </div>
                     </div>
@@ -26,7 +26,7 @@ function AboutMe() {
                 <div className='flex items-center'>
                     <label htmlFor='htmlandcss' className='w-2/12'>React JS</label>
                     <div className='grow bg-gray-800 rounded-full h-2.5'>
-                        <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12'>
+                        <div className='bg-gradient-to-r from-yellow-500 to-purple-700 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-8/12'>
 
                         </div>
                     </div>
@@ -34,7 +34,7 @@ function AboutMe() {
                 <div className='flex items-center'>
                     <label htmlFor='htmlandcss' className='w-2/12'>Node Js</label>
                     <div className='grow bg-gray-800 rounded-full h-2.5'>
-                        <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-7/12'>
+                        <div className='bg-gradient-to-r from-yellow-500 to-purple-700 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-7/12'>
 
                         </div>
                     </div>
@@ -43,19 +43,19 @@ function AboutMe() {
             <div className='flex justify-between md:space-x-6'>
             <div className='mt-12 justify-between text-center'>
                 <div>
-                    <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>1+</h3>
+                    <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-purple-700'>1+</h3>
                     <p>Years experience</p>
                 </div>
             </div>
             <div className='mt-12 justify-between text-center'>
                 <div>
-                    <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>4+</h3>
+                    <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-purple-700'>4+</h3>
                     <p>Projects completed</p>
                 </div>
             </div>
             <div className='mt-12 justify-between text-center'>
                 <div>
-                    <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>10+</h3>
+                    <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-purple-700'>10+</h3>
                     <p>Happy clients</p>
                 </div>
             </div>

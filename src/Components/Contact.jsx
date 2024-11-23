@@ -9,22 +9,22 @@ function Contact() {
             <h2 className='text-4xl font-bold text-center mb-12'>Contact me</h2>
             <div className='flex flex-col mx-auto md:flex-row md:space-x-12'>
             <div className='flex-1'>
-            <h3 className='text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500 mb-4'>Lets Talk</h3>
+            <h3 className='text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-purple-700 mb-4'>Lets Talk</h3>
             <p>I am open to discussing web development projects or partnership opportunities.</p>
             <div className='mb-4 mt-4'>
-              <FaEnvelope className='inline-block text-green-400 mr-2'></FaEnvelope>
+              <FaEnvelope className='inline-block text-yellow-500 mr-2'></FaEnvelope>
               <a href="mailto:yourexample@example.com" className='hover:underline'>
                 yourexample@example.com
               </a>
             </div>
 
             <div className='mb-4'>
-              <FaPhone className='inline-block text-green-400 mr-2'></FaPhone>
+              <FaPhone className='inline-block text-yellow-500 mr-2'></FaPhone>
               <span>01751707829</span>
             </div>
 
             <div className='mb-4'>
-              <FaMapMarkedAlt className='inline-block text-green-400 mr-2'></FaMapMarkedAlt>
+              <FaMapMarkedAlt className='inline-block text-yellow-500 mr-2'></FaMapMarkedAlt>
               <span>Street, city etc</span>
             </div>
             </div>
@@ -52,7 +52,7 @@ function Contact() {
                   placeholder='Enter your Message'
                   />
                 </div>
-                <button className='bg-gradient-to-t from-green-50 to-blue-500 hidden md:inline transform transition-transform duration-300 hover:scale-105 px-8 py-2 rounded-full'>Send</button>
+                <button className='bg-gradient-to-t from-yellow-500 to-purple-700 hidden md:inline transform transition-transform duration-300 hover:scale-105 px-8 py-2 rounded-full'>Send</button>
               </form>
             </div>
 

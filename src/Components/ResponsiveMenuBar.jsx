@@ -15,7 +15,7 @@ function ResponsiveMenuBar({ open }) {
             <a href="#Projects" className='hover:text-gray-400 block text-lg'>Projects</a>
             <a href="#Contact" className='hover:text-gray-400 block text-lg'>Contact</a>
           </div>
-          <button className='mt-6 bg-gradient-to-t from-green-50 to-blue-500 transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>
+          <button className='mt-6 bg-gradient-to-t from-yellow-100 to-purple-500 transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>
             Contact Me
           </button>
         </div>

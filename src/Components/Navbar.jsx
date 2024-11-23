@@ -27,7 +27,7 @@ function Navbar() {
               Contact
             </a>
           </div>
-          <button className="bg-gradient-to-t from-green-50 to-blue-500 hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
+          <button className="bg-gradient-to-t from-yellow-100 to-purple-500 hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
             Contact Me
           </button>
           <button className="md:hidden" onClick={() => setOpen(!open)}>
