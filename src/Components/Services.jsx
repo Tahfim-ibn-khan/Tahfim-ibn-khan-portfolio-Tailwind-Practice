@@ -47,7 +47,7 @@ function Services() {
                         <div className='text-right text-2xl front-bold text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-blue-400'>
                         {service.id}
                         </div>
-                        <h3 className='mt-2 text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>
+                        <h3 className='mt-2 text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-500 to-purple-700'>
                             {service.title}
                         </h3>
                         <p className='mt-2 text-gray-300'>

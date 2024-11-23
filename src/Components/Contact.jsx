@@ -33,21 +33,21 @@ function Contact() {
                 <div>
                   <label htmlFor="name" className='block mb-2'>Your Name</label>
                   <input type='text'
-                  className='w-full p-2 rounded bg-gray-800 border border-gray-600 focus:outline-none focus:border-green-400'
+                  className='w-full p-2 rounded bg-gray-800 border border-gray-600 focus:outline-none focus:border-yellow-500'
                   placeholder='Enter your name'
                   />
                 </div>
                 <div>
                   <label htmlFor="email" className='block mb-2'>Email</label>
                   <input type='text'
-                  className='w-full p-2 rounded bg-gray-800 border border-gray-600 focus:outline-none focus:border-green-400'
+                  className='w-full p-2 rounded bg-gray-800 border border-gray-600 focus:outline-none focus:border-yellow-500'
                   placeholder='Enter your Email'
                   />
                 </div>
                 <div>
                   <label htmlFor="message" className='block mb-2'>Message</label>
                   <textarea type='text'
-                  className='w-full p-2 rounded bg-gray-800 border border-gray-600 focus:outline-none focus:border-green-400'
+                  className='w-full p-2 rounded bg-gray-800 border border-gray-600 focus:outline-none focus:border-yellow-500'
                   rows="5"
                   placeholder='Enter your Message'
                   />
