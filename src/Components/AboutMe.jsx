@@ -43,7 +43,7 @@ function AboutMe() {
             <div className='flex justify-between md:space-x-6'>
             <div className='mt-12 justify-between text-center'>
                 <div>
-                    <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>3+</h3>
+                    <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>1+</h3>
                     <p>Years experience</p>
                 </div>
             </div>
