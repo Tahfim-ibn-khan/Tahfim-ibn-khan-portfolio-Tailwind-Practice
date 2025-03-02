@@ -13,8 +13,8 @@ function Contact() {
             <p>I am open to discussing web development projects or partnership opportunities.</p>
             <div className='mb-4 mt-4'>
               <FaEnvelope className='inline-block text-yellow-500 mr-2'></FaEnvelope>
-              <a href="mailto:yourexample@example.com" className='hover:underline'>
-                yourexample@example.com
+              <a href="mailto:tahfimibnkhan123@gmail.com" className='hover:underline'>
+                tahfimibnkhan123@gmail.com
               </a>
             </div>
 
@@ -25,7 +25,7 @@ function Contact() {
 
             <div className='mb-4'>
               <FaMapMarkedAlt className='inline-block text-yellow-500 mr-2'></FaMapMarkedAlt>
-              <span>Street, city etc</span>
+              <span>Dhaka, Bangladesh</span>
             </div>
             </div>
             <div className='flex-1 w-full'>

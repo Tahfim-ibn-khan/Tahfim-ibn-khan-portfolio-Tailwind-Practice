@@ -3,11 +3,6 @@ import React from 'react'
 
 const services = [
     {
-      id: 1,
-      title: "Web Design",
-      description: "Creating visually appealing and user-friendly web designs."
-    },
-    {
       id: 2,
       title: "Frontend Development",
       description: "Building responsive and interactive user interfaces."
@@ -28,10 +23,15 @@ const services = [
       description: "Providing comprehensive online store solutions to expand your business."
     },
     {
-      id: 6,
-      title: "Digital Marketing",
-      description: "Boosting online presence through SEO, social media, and targeted advertising."
-    }
+      "id": 6,
+      "title": "Machine Learning",
+      "description": "Leveraging machine learning to simplify complex tasks and enhance decision-making."
+    },
+    {
+      "id": 7,
+      "title": "Research",
+      "description": "Exploring innovative solutions through data-driven research and analysis."
+    }    
   ];
   
 function Services() {
